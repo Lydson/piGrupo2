@@ -21,6 +21,7 @@ Utilizamos o diagrama de caso de uso(figura 1) para ter uma representação visu
 ## Diagrama de Classe 
 
 <IMAGEM>
+  
 - aluno
 - funcionário
 - professor
