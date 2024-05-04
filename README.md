@@ -1,10 +1,12 @@
 # Projeto Integrador - SENAC - Grupo 2
+Curso de Tecnologia em Sistemas para Internet.
+
 Integrantes do grupo: 
-Cristiane Silva San Miguel
-Lydson Henrique San Miguel Garcia
-Raphael Honorato e Silva
-Thiago de Holanda Silva
-Tiago Tinoco Martins dos Santos
+- Cristiane Silva San Miguel
+- Lydson Henrique San Miguel Garcia
+- Raphael Honorato e Silva
+- Thiago de Holanda Silva
+- Tiago Tinoco Martins dos Santos
 
 ## Descrição do projeto institucional
 Inicialmente, este trabalho de modelagem visa criar um modelo UML (Unified Modeling Language ou Linguagem de Modelagem Unificada) para gerenciamento de dados universitários. Foram criados um diagrama de caso de uso e um diagrama de classe para apontar claramente as interações entre os usuários e o sistema.
