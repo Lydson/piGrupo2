@@ -30,4 +30,4 @@ Utilizamos o diagrama de caso de uso(figura 1) para ter uma representação visu
 
 ## Protótipos da interface do sistema
 
-<IMAGENS FIGMA>
+<IMAGENS FIGMA> 
