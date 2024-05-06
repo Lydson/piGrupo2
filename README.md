@@ -23,7 +23,7 @@ https://docs.google.com/document/d/1mV7hO4vUEnDlLTwVJ7mgkgLZgkIoq7m5/edit?usp=sh
 
 
 ## Logo Universidade Amanhã
-
+![logo!](Prints do protótipo/logo.png)
 
 ## Prints do protótipo da interface do sistema no Figma
 ![Tela inicial!](Prints do protótipo/1 Tela inicial.png)
