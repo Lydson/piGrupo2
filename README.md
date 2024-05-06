@@ -30,7 +30,7 @@ https://docs.google.com/document/d/1mV7hO4vUEnDlLTwVJ7mgkgLZgkIoq7m5/edit?usp=sh
 ### Tela inicial
 Tela inicial no formato desktop e mobile.
 ![1 Tela inicial](https://github.com/Lydson/piGrupo2/assets/104333431/5c77e652-413e-4cbe-98f4-cf665abeae8c)
-![2 Página 1 - TELA INICIAL MOBILE](https://github.com/Lydson/piGrupo2/assets/104333431/a5b67606-f472-4cf9-9931-f20ba29b4852)
+![2 Página 1 - TELA INICIAL MOBILE](https://github.com/Lydson/piGrupo2/assets/104333431/49806331-3f07-4c0f-8c83-f814f3dd6016)
 ![3 Página 1 - TELA INICIAL MENU](https://github.com/Lydson/piGrupo2/assets/104333431/6b7ace6b-1bb6-43d0-a48d-6f89f3ac20ab)
 
 ### Tela de Login
